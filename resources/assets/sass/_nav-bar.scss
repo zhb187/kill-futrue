@@ -1,0 +1,11 @@
+.nav-bar{
+    height: 50px;
+    border-bottom: 1px solid $Extra-Light-Silver;
+    background: #475669;
+    &-content{
+        color: $white-color;
+        line-height: 50px;
+        text-align: right;
+        padding-right: 10%;
+    }
+}
